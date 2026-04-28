@@ -62,22 +62,22 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=gouveazs\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
-![](https://streak-stats.demolab.com/?user=gouveazs\&theme=dark\&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gouveazs\&theme=dark\&hide_border=false\&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=SlizpawJV\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
+![](https://streak-stats.demolab.com/?user=SlizpawJV\&theme=dark\&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SlizpawJV\&theme=dark\&hide_border=false\&layout=compact)
 
 ---
 
 ## 🏆 Conquistas
 
-![](https://github-profile-trophy.vercel.app/?username=gouveazs\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SlizpawJV\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
 
 ---
 
 ## 📈 Contribuições
 
-![](https://github-contributor-stats.vercel.app/api?username=gouveazs\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=SlizpawJV\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=gouveazs\&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=SlizpawJV\&color=blue)
