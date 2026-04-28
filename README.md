@@ -72,10 +72,4 @@
 
 ---
 
-## 📈 Contribuições
-
-![](https://github-contributor-stats.vercel.app/api?username=SlizpawJV\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=SlizpawJV\&color=blue)
