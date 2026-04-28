@@ -8,7 +8,7 @@
 
 ## 💫 Sobre Mim
 
-* 🎯 Interesse em desenvolvimento backend e cibersegurança
+* 🎯 Interesse em desenvolvimento frontend
 * 🧠 Sempre aprendendo novas linguagens
 
 ---
@@ -54,9 +54,7 @@
 
 ## 📌 Projetos em destaque
 
-* 🛒 Sistema de marketplace
-* 📚 Plataforma de revenda de livros (Entre Linhas)
-* 📦 Página estilo Mercado Livre
+* 📚 MarketPlace de Jogos (MaxAcess)
 
 ---
 
